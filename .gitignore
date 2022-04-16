@@ -11,5 +11,4 @@ target
 #ignored gateway files
  
 .env
-
 .DS_Store
