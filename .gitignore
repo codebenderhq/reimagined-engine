@@ -1,0 +1,15 @@
+node_modules
+.parcel-cache
+dist
+.npmrc
+.idea
+sandbox
+public
+.dfx
+target
+
+#ignored gateway files
+ 
+.env
+
+ 
